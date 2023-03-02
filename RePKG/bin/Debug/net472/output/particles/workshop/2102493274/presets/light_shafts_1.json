@@ -1,0 +1,55 @@
+{
+	"emitter" : 
+	[
+		{
+			"directions" : "1 0.03 0",
+			"distancemax" : 320,
+			"distancemin" : 10,
+			"name" : "sphererandom",
+			"origin" : "0 0 0",
+			"rate" : 0.29999999999999999
+		}
+	],
+	"initializer" : 
+	[
+		{
+			"max" : 20,
+			"min" : 8,
+			"name" : "lifetimerandom"
+		},
+		{
+			"max" : 750,
+			"min" : 350,
+			"name" : "sizerandom"
+		},
+		{
+			"max" : "-5 10 0",
+			"min" : "-20 0 0",
+			"name" : "velocityrandom"
+		},
+		{
+			"max" : "170 110 40",
+			"min" : "110 92 20",
+			"name" : "colorrandom"
+		},
+		{
+			"max" : -0.29999999999999999,
+			"min" : -0.40000000000000002,
+			"name" : "rotationrandom"
+		}
+	],
+	"material" : "materials/workshop/2102493274/presets/light_shafts_1.json",
+	"maxcount" : 16,
+	"operator" : 
+	[
+		{
+			"gravity" : "0 0 0",
+			"name" : "movement"
+		},
+		{
+			"fadeintime" : 0.10000000000000001,
+			"name" : "alphafade"
+		}
+	],
+	"starttime" : 15
+}

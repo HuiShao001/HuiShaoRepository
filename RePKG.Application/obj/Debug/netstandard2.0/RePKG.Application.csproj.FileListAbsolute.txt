@@ -1,0 +1,12 @@
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\bin\Debug\netstandard2.0\RePKG.Application.deps.json
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\bin\Debug\netstandard2.0\RePKG.Application.dll
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\bin\Debug\netstandard2.0\RePKG.Application.pdb
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\bin\Debug\netstandard2.0\RePKG.Core.dll
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\bin\Debug\netstandard2.0\RePKG.Core.pdb
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\obj\Debug\netstandard2.0\RePKG.Application.csprojAssemblyReference.cache
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\obj\Debug\netstandard2.0\RePKG.Application.AssemblyInfoInputs.cache
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\obj\Debug\netstandard2.0\RePKG.Application.AssemblyInfo.cs
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\obj\Debug\netstandard2.0\RePKG.Application.csproj.CoreCompileInputs.cache
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\obj\Debug\netstandard2.0\RePKG.Application.csproj.CopyComplete
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\obj\Debug\netstandard2.0\RePKG.Application.dll
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Application\obj\Debug\netstandard2.0\RePKG.Application.pdb

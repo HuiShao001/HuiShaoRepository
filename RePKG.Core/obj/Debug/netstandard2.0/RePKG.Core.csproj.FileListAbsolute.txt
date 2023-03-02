@@ -1,0 +1,9 @@
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Core\bin\Debug\netstandard2.0\RePKG.Core.deps.json
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Core\bin\Debug\netstandard2.0\RePKG.Core.dll
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Core\bin\Debug\netstandard2.0\RePKG.Core.pdb
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Core\obj\Debug\netstandard2.0\RePKG.Core.csprojAssemblyReference.cache
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Core\obj\Debug\netstandard2.0\RePKG.Core.AssemblyInfoInputs.cache
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Core\obj\Debug\netstandard2.0\RePKG.Core.AssemblyInfo.cs
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Core\obj\Debug\netstandard2.0\RePKG.Core.csproj.CoreCompileInputs.cache
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Core\obj\Debug\netstandard2.0\RePKG.Core.dll
+E:\桌面文件\壁纸提取\repkg-master\repkg-master\RePKG.Core\obj\Debug\netstandard2.0\RePKG.Core.pdb

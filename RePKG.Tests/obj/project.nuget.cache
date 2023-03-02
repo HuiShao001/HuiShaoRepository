@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "PB6HnhyIiUpIi6KFAh7xAH2E8pCqxkNRNOMjJPgK3KplUHw4UWTSdncxbaFziTIoVYQtWcANHVxV63UgHD6Fbw==",
+  "success": false,
+  "projectFilePath": "E:\\桌面文件\\壁纸提取\\repkg-master\\repkg-master\\RePKG.Tests\\RePKG.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\microsoft.net.compilers.toolset\\3.1.0\\microsoft.net.compilers.toolset.3.1.0.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\microsoft.net.test.sdk\\16.4.0\\microsoft.net.test.sdk.16.4.0.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\nunit3testadapter\\3.16.0\\nunit3testadapter.3.16.0.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\sixlabors.core\\1.0.0-beta0008\\sixlabors.core.1.0.0-beta0008.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\sixlabors.imagesharp\\1.0.0-beta0007\\sixlabors.imagesharp.1.0.0-beta0007.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\LUOHENGKUN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "找不到包 Microsoft.DotNet.ILCompiler。源 Microsoft Visual Studio Offline Packages, nuget.org 中不存在具有此 ID 的包",
+      "libraryId": "Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}
